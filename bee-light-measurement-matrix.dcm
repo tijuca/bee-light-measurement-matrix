@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3904
+D 40V Vce, 0.2A Ic, Small Signal NPN Transistor, TO-92
+K Small Signal NPN Transistor
+$ENDCMP
+#
+#End Doc Library

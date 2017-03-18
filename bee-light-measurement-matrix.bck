@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3904
+D 50V Vce, 0.15A Ic, Low Noise Audio NPN Transistor, TO-92
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+#End Doc Library
